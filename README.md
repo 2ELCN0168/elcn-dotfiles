@@ -11,6 +11,7 @@
 
 ### Window manager :
 - Hyprland ;
+- Hyprpaper ;
 
 ### Status Bar :
 - Waybar ;
@@ -26,6 +27,10 @@
 ### Terminal File Manager :
 - Ranger ;
 - nnn (optionnal) ;
+
+### Application launcher :
+- Wofi ;
+- Rofi (choose one between those two) ;
 
 ## Coming soon :
 

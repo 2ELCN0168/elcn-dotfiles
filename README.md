@@ -7,11 +7,27 @@
 ## Apps needed : 
 
 ### Display Manager :
-    - Sddm ;
+- Sddm ;
 
 ### Window manager :
-    - Hyprland ;
+- Hyprland ;
 
 ### Status Bar :
-    - Waybar ;
+- Waybar ;
+- wlogout ;
+- pavucontrol ;
 
+### Terminal Emulator :
+- Kitty ;
+
+### File Manager :
+- Thunar ;
+
+### Terminal File Manager :
+- Ranger ;
+- nnn (optionnal) ;
+
+## Coming soon :
+
+- A script to automate the installation of the files ;
+- A script to automate the installation of these packages depending on the distribution used ;

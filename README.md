@@ -6,7 +6,7 @@
 
 # How to install :
 
-Actually, there's no other way to install my files automatically, you will need to do it manually.
+Actually, there's no way to install my files automatically, you will need to do it manually.
 
 ```bash
 git clone https://github.com/2ELCN0168/elcn-dotfiles

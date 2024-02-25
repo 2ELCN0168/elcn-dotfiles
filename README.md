@@ -32,6 +32,18 @@
 - Wofi ;
 - Rofi (choose one between those two) ;
 
+### Text Editor : 
+- Vim ;
+- Neovim ;
+
+### Shell :
+- Zsh ;
+- Bash ;
+
+#### Zsh Plugins :
+- ![zsh-syntax-highlighting ;](github.com/zsh-users/zsh-syntax-highlighting)
+- ![zsh-autosuggestions ;](github.com/zsh-users/zsh-autosuggestions)
+
 ## Coming soon :
 
 - A script to automate the installation of the files ;

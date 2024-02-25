@@ -18,7 +18,8 @@ From here, choose the files you want and copy them to your `$HOME/.config` direc
 > [!WARNING]
 > This is a work-in-progress repository, your apps may look weird/vanilla/unfinished by installing my files. Don't be surprised and stay up-to-date.
 
-## Apps needed : 
+<details>
+<summary>## Apps needed :</summary>
 
 ### Bootloader :
 - Refind.
@@ -98,19 +99,23 @@ From here, choose the files you want and copy them to your `$HOME/.config` direc
 - [Nitch ;](github.com/ssleert/nitch)
 - [Rxfetch ;](github.com/Mangeshrex/rxfetch)
 
+</details>
+
 ***
 
 > [!WARNING]
 > Distribution Specific Packages :
 
-- Archlinux :
-    - AUR Helper :
-        - [Paru ;](github.com/Morganamilo/paru)
+<details>
 
+<summary>Archlinux :</summary>
+
+- AUR Helper :
+    - [Paru ;](github.com/Morganamilo/paru)
+
+</details>
 
 ***
-
-
 
 ## Coming soon :
 

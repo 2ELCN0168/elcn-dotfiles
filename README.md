@@ -67,6 +67,7 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 
 ### File Manager :
 - Thunar ;
+    - thunar-volman + gvfs (for automounting removable media)
 
 ***
 

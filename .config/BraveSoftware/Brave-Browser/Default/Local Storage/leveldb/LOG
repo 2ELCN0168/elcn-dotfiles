@@ -1,6 +1,0 @@
-2024/02/25-09:05:10.979 4 Reusing MANIFEST /home/eluciani/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2024/02/25-09:05:10.981 4 Recovering log #184
-2024/02/25-09:05:10.982 4 Reusing old log /home/eluciani/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000184.log 
-2024/02/25-09:38:19.197 4 Level-0 table #189: started
-2024/02/25-09:38:19.203 4 Level-0 table #189: 23188 bytes OK
-2024/02/25-09:38:19.206 4 Delete type=0 #184

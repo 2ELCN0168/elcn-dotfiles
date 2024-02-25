@@ -36,6 +36,9 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 ### Fonts :
 - [Nerd Fonts ;](github.com/ryanoasis/nerd-fonts)
 - [Terminus ;](terminus-font.sourceforge.net)
+- [Noto Fonts Emoji](github.com/googlefonts/noto-emoji)
+
+***
 
 ### Display Manager :
 - Sddm.

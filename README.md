@@ -41,8 +41,8 @@
 - Bash ;
 
 #### Zsh Plugins :
-- ![zsh-syntax-highlighting ;](github.com/zsh-users/zsh-syntax-highlighting)
-- ![zsh-autosuggestions ;](github.com/zsh-users/zsh-autosuggestions)
+- [zsh-syntax-highlighting ;](github.com/zsh-users/zsh-syntax-highlighting)
+- [zsh-autosuggestions ;](github.com/zsh-users/zsh-autosuggestions)
 
 ## Coming soon :
 

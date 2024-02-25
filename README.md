@@ -18,8 +18,7 @@ From here, choose the files you want and copy them to your `$HOME/.config` direc
 > [!WARNING]
 > This is a work-in-progress repository, your apps may look weird/vanilla/unfinished by installing my files. Don't be surprised and stay up-to-date.
 
-<details>
-<summary>## Apps needed :</summary>
+## Apps needed :
 
 ### Bootloader :
 - Refind.
@@ -99,8 +98,7 @@ From here, choose the files you want and copy them to your `$HOME/.config` direc
 - [Nitch ;](github.com/ssleert/nitch)
 - [Rxfetch ;](github.com/Mangeshrex/rxfetch)
 
-</details>
-
+- [ncmatrix ;](github.com/EnronEvolved/NCMatrix)
 ***
 
 > [!WARNING]

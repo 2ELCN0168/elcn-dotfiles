@@ -1,4 +1,4 @@
-![screenshot](readme_images/capture_01.jpg)
+![screenshot](./readme_images/capture_01.jpg)
 
 # elcn's dotfiles
 

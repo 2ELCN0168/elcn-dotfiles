@@ -40,8 +40,14 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 
 ***
 
+### Firewall:
+- [iptables ;]()
+- [firewalld ;]()
+
+***
+
 ### Display Manager :
-- Sddm.
+- [Sddm ;]()
 
 ***
 
@@ -65,6 +71,7 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 
 ### Terminal Emulator :
 - Kitty ;
+- [Tmux ;]()
 
 ***
 
@@ -89,6 +96,21 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 ### Text Editor : 
 - Vim ;
 - Neovim ;
+- Nano ;
+
+***
+
+### Help:
+- [man-{db,info} ;]()
+- [texinfo ;]()
+- [tldr ;]()
+
+***
+
+### Servers:
+- [Mosh ;]()
+- [Open SSH ;]()
+- [Cups ;]()
 
 ***
 
@@ -102,6 +124,7 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 #### Zsh Plugins :
 - [zsh-syntax-highlighting ;](github.com/zsh-users/zsh-syntax-highlighting)
 - [zsh-autosuggestions ;](github.com/zsh-users/zsh-autosuggestions)
+- [zsh-history-substring-search ']()
 
 - [powerlevel10k ;](github.com/romkatv/powerlevel10k) (prompt)
 
@@ -115,6 +138,39 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 - [Rxfetch ;](github.com/Mangeshrex/rxfetch)
 
 - [ncmatrix ;](github.com/EnronEvolved/NCMatrix)
+- [no-more-secrets ;]()
+
+- [bat ;]()
+- [colorls ;]()
+- [tree ;]()
+
+***
+
+### Programming langages:
+- [Python ;]()
+- [Rust ;]()
+
+***
+
+### Monitoring:
+- [htop ;]()
+- [btop ;]()
+
+***
+
+### Web Browsers:
+- [Brave ;]()
+
+***
+
+### Media players:
+- [VLC ;]()
+
+***
+
+### Passwords Manager:
+- [KeepassXC ;]()
+
 ***
 
 > [!WARNING]

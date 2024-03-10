@@ -46,6 +46,20 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 
 ***
 
+### Audio:
+- [alsa-utils ;]()
+- [pulseaudio ;]()
+- [pulseaudio-bluetooth ;]()
+ 
+***
+
+### Bluetooth:
+- [bluez ;]()
+- [bluez-utils ;]()
+- [bluez-tools ;]()
+
+***
+
 ### Display Manager :
 - [Sddm ;]()
 

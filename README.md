@@ -179,6 +179,19 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 
 ### Media players:
 - [VLC ;]()
+- [Elisa (music) ;]()
+
+***
+
+### Images Viewers:
+- [Oculante ;]()
+- [imv ;]()
+- [swayimg ;]()
+
+***
+
+### PDF Viewers:
+- [Zathura ;]()
 
 ***
 

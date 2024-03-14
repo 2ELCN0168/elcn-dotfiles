@@ -72,7 +72,12 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 ***
 
 ### Lockscreen :
-- [Swaylock](github.com/mortie/swaylock-effects)
+- [Swaylock ;](github.com/mortie/swaylock-effects)
+
+***
+
+### Notifications:
+- [swaync ;]()
 
 ***
 
@@ -80,6 +85,7 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 - Waybar ;
 - wlogout ;
 - pavucontrol ;
+- [eww ;]()
 
 ***
 
@@ -92,6 +98,7 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 ### File Manager :
 - Thunar ;
     - thunar-volman + gvfs (for automounting removable media)
+- [xdg-user-dirs ;]()
 
 ***
 
@@ -138,7 +145,8 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 #### Zsh Plugins :
 - [zsh-syntax-highlighting ;](github.com/zsh-users/zsh-syntax-highlighting)
 - [zsh-autosuggestions ;](github.com/zsh-users/zsh-autosuggestions)
-- [zsh-history-substring-search ']()
+- [zsh-history-substring-search ;]()
+- [zsh-completions ;]()
 
 - [powerlevel10k ;](github.com/romkatv/powerlevel10k) (prompt)
 

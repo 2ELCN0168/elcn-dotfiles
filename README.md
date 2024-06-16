@@ -13,11 +13,12 @@ Actually, there's no way to install my files automatically, you will need to do 
 git clone https://github.com/2ELCN0168/elcn-dotfiles
 cd elcn-dotfiles/.config
 ```
+
 From here, choose the files you want and copy them to your `$HOME/.config` directory. Make sure to backup YOUR files before doing that, they could be erased by mine!
 
-You can use these command to copy  :
+You can use these command to copy :
 
-```bash 
+```bash
 cp -a $HOME/elcn-dotfiles/.config/[the directory you want] $HOME/.config/
 ```
 
@@ -29,120 +30,143 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 ## Apps needed :
 
 ### Bootloader :
+
 - Refind.
 
-***
+---
 
 ### Fonts :
+
 - [Nerd Fonts ;](github.com/ryanoasis/nerd-fonts)
 - [Terminus ;](terminus-font.sourceforge.net)
 - [Noto Fonts Emoji](github.com/googlefonts/noto-emoji)
 
-***
+---
 
 ### Firewall:
+
 - [iptables ;]()
 - [firewalld ;]()
 
-***
+---
 
 ### Audio:
+
 - [alsa-utils ;]()
 - [pulseaudio ;]()
 - [pulseaudio-bluetooth ;]()
- 
-***
+
+---
 
 ### Bluetooth:
+
 - [bluez ;]()
 - [bluez-utils ;]()
 - [bluez-tools ;]()
 
-***
+---
 
 ### Display Manager :
+
 - [Sddm ;]()
 
-***
+---
 
 ### Window manager :
+
 - Hyprland ;
 - Hyprpaper ;
 
-***
+---
 
 ### Lockscreen :
+
 - [Swaylock ;](github.com/mortie/swaylock-effects)
 
-***
+---
 
 ### Notifications:
+
 - [swaync ;]()
 
-***
+---
 
 ### Status Bar :
+
 - Waybar ;
 - wlogout ;
 - pavucontrol ;
 - [eww ;]()
 
-***
+---
 
 ### Terminal Emulator :
-- Kitty ;
-- [Tmux ;]()
 
-***
+- [Kitty ;](https://sw.kovidgoyal.net/kitty/)
+- [Tmux ;](https://github.com/tmux/tmux/wiki/Installing)
+- [Alacritty ;](https://alacritty.org/)
+- [alacritty-themes ;](https://www.npmjs.com/package/alacritty-themes/v/5.1.1)
+
+---
 
 ### File Manager :
+
 - Thunar ;
-    - thunar-volman + gvfs (for automounting removable media)
+  - thunar-volman + gvfs (for automounting removable media)
 - [xdg-user-dirs ;]()
 
-***
+---
 
 ### Terminal File Manager :
+
 - Ranger ;
 - nnn (optional) ;
+- [Superfile ;](https://superfile.netlify.app/)
 
-***
+---
 
 ### Application launcher :
+
 - Wofi ;
 - Rofi (choose one between those two) ;
 
-***
+---
 
-### Text Editor : 
+### Text Editor :
+
+- Vi ;
 - Vim ;
 - Neovim ;
 - Nano ;
 
-***
+---
 
 ### Help:
-- [man-{db,info} ;]()
+
+- [man-{db,pages} ;]()
 - [texinfo ;]()
 - [tldr ;]()
 
-***
+---
 
 ### Servers:
+
 - [Mosh ;]()
 - [Open SSH ;]()
 - [Cups ;]()
 
-***
+---
 
 ### Shell :
+
 - Zsh ;
 - Bash ;
 - [Fish ;](github.com/fish-shell/fish-shell)
 
-***
+---
 
 #### Zsh Plugins :
+
 - [zsh-syntax-highlighting ;](github.com/zsh-users/zsh-syntax-highlighting)
 - [zsh-autosuggestions ;](github.com/zsh-users/zsh-autosuggestions)
 - [zsh-history-substring-search ;]()
@@ -150,9 +174,10 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 
 - [powerlevel10k ;](github.com/romkatv/powerlevel10k) (prompt)
 
-***
+---
 
 ### Various Term Apps (Optional) :
+
 - [Pokeget-rs ;](github.com/talwat/pokeget-rs)
 
 - [Neofetch ;](github.com/dylanaraps/neofetch)
@@ -166,47 +191,54 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 - [colorls ;]()
 - [tree ;]()
 
-***
+---
 
 ### Programming langages:
+
 - [Python ;]()
 - [Rust ;]()
 
-***
+---
 
 ### Monitoring:
+
 - [htop ;]()
 - [btop ;]()
 
-***
+---
 
 ### Web Browsers:
+
 - [Brave ;]()
 
-***
+---
 
 ### Media players:
+
 - [VLC ;]()
 - [Elisa (music) ;]()
 
-***
+---
 
 ### Images Viewers:
+
 - [Oculante ;]()
 - [imv ;]()
 - [swayimg ;]()
 
-***
+---
 
 ### PDF Viewers:
+
 - [Zathura ;]()
 
-***
+---
 
 ### Passwords Manager:
+
 - [KeepassXC ;]()
 
-***
+---
 
 > [!WARNING]
 > Distribution Specific Packages :
@@ -216,11 +248,11 @@ This will get the directory you want and copy it to your `.config` directory. Ma
 <summary>Archlinux :</summary>
 
 - AUR Helper :
-    - [Paru ;](github.com/Morganamilo/paru)
+  - [Paru ;](github.com/Morganamilo/paru)
 
 </details>
 
-***
+---
 
 ## Coming soon :
 
@@ -249,7 +281,6 @@ Q : Is it possible to contribute to your projects?
 
 A : It depends, it wasn't in the plan but you can always contact me to discuss about that.
 
-Q : When will \[insert a file name\] will be updated? 
+Q : When will \[insert a file name\] will be updated?
 
-A : I'm working a lot and have not that much of a free time, but I know what should be done and I'll do it... Someday. 
-
+A : I'm working a lot and have not that much of a free time, but I know what should be done and I'll do it... Someday.

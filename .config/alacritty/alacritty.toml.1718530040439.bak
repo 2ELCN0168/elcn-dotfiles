@@ -1,0 +1,39 @@
+[font]
+size = 14.0
+
+[font.bold]
+family = "JetBrainsMono NF"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMono NF"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMono NF"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMono NF"
+style = "Regular"
+
+[window]
+decorations = "Buttonless"
+opacity = 0.5
+blur = true
+dynamic_padding = true
+padding = { x = 10, y = 10 }
+
+[cursor]
+style = { shape = "Beam", blinking = "Always" }
+thickness = 0.20
+
+[keyboard]
+
+bindings = [
+{ key = "N", mods = "Control|Shift", action = "CreateNewWindow" },
+{ key = "+", mods = "Control|Shift", action = "IncreaseFontSize" },
+{ key = "-", mods = "Control|Shift", action = "DecreaseFontSize" },
+{ key = "F", mods = "Control|Shift", action = "ToggleFullscreen" },
+{ key = "F", mods = "Control", action = "ToggleMaximized" },
+{ key = "T", mods = "Control", action = "CreateNewTab" }]
